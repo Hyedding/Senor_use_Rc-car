@@ -37,7 +37,8 @@
 
 **카메라 모듈** - 사용자가 직접 확인이 가능
 
-![image](https://github.com/Hyedding/Senor_use_Rc-car/assets/155518059/216fbf5a-391e-4312-a84b-eb8313caafba)
+![image](https://github.com/Hyedding/Senor_use_Rc-car/assets/155518059/808e63b0-9ccf-4896-b2a6-3a2c76a61772)
 
-![image](https://github.com/Hyedding/Senor_use_Rc-car/assets/155518059/8b3e6289-df06-4aab-9571-5841599b8700)
+![image](https://github.com/Hyedding/Senor_use_Rc-car/assets/155518059/5655faf5-e006-4cdb-859e-e2ac33fad2fe)
+
 
